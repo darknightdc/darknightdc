@@ -1,5 +1,7 @@
 Atualmente, estudante de engenharia eletrônica
 
+https://www.svgrepo.com/show/374163/verilog.svg
+
 <img width="5%" height="5%" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" src="https://github.com/user-attachments/assets/94966ad5-79d5-4671-858c-4ebb281dd376" />
 
 <img width="5%" height="5%" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f637373332f637373332d6f726967696e616c2e737667" src="https://github.com/user-attachments/assets/aaba8539-c407-406b-bd7c-878871b7c71a" />
