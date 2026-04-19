@@ -3,12 +3,12 @@ Atualmente, estudante de engenharia eletrônica
 <div>
 <div>
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/250px-C_Logo.png" />
+  <img width="40" src="https://github.com/user-attachments/assets/f8c13597-dd7c-47cd-a704-f549b8512611" />
   <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
   <img width="40" src="https://www.svgrepo.com/show/374163/verilog.svg" />
   <img width="40" src="https://github.com/user-attachments/assets/94966ad5-79d5-4671-858c-4ebb281dd376" />
   <img width="40" src="https://github.com/user-attachments/assets/aaba8539-c407-406b-bd7c-878871b7c71a" />
   <img width="40" src="https://github.com/user-attachments/assets/f8fdb0d2-c3f7-438c-9f3b-55eb5b47132b" />
-  <img width="40" src="https://github.com/user-attachments/assets/f8c13597-dd7c-47cd-a704-f549b8512611" />
   <img width="40" src="https://github.com/user-attachments/assets/6ef19958-a258-4590-b8f0-11ef12896f66" />
   <img width="40" src="https://github.com/user-attachments/assets/a3f7c280-5825-4569-a973-1f41cc93c8f4" />
 </div>
