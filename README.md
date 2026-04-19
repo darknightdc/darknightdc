@@ -2,9 +2,11 @@ Atualmente, estudante de engenharia eletrônica
 
 <div>
 <div>
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/250px-C_Logo.png" />
-  <img width="40" src="https://github.com/user-attachments/assets/f8c13597-dd7c-47cd-a704-f549b8512611" />
-  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
+<div>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+</div>
   <img width="40" src="https://www.svgrepo.com/show/374163/verilog.svg" />
   <img width="40" src="https://github.com/user-attachments/assets/94966ad5-79d5-4671-858c-4ebb281dd376" />
   <img width="40" src="https://github.com/user-attachments/assets/aaba8539-c407-406b-bd7c-878871b7c71a" />
