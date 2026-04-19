@@ -4,7 +4,7 @@ Atualmente, estudante de engenharia eletrônica
 <img width="5%" height="5%" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f632f632d6f726967696e616c2e737667" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/C_Logo.png/250px-C_Logo.png" />
 
 <img width="5%" height="5%" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" src=
-  https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png />
+"https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" />
   
 <img width="5%" height="5%" alt="68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f68746d6c352f68746d6c352d6f726967696e616c2e737667" src="https://www.svgrepo.com/show/374163/verilog.svg" />
   
